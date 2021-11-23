@@ -18,7 +18,7 @@
     <img src="icones/Social/linkedin.svg" alt="Instagram" style="max-width:100%;">
  </a>
    <a href="https://api.whatsapp.com/send?phone=5577988292741/" rel="nofollow">
-    <img src="icones/Social/whastapp.svg" alt="WhastApp" style="max-width:100%;">
+    <img src="icones/Social/whatsapp.svg" alt="WhastApp" style="max-width:100%;">
  </a>
  
  
