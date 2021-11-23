@@ -2,25 +2,22 @@
 
 </p>
 <h3>Bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos realizados</h3>
-<h4>Possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). E Tenho experiência na área de Engenharia da computação, com ênfase em Desenvolvimento de Software.</h4>
+<h4>Possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). E Tenho experiência na área de Engenharia da computação, com ênfase em Desenvolvimento de Back-End.</h4>
 
 
 
  ##  📫 Onde você pode me encontrar:
 <p align="center">
-  <a href="mailto:igorviniciusfreitasouza@gmail.com?Subject=Título%20da%20mensagem"> 
+  <a href="mailto:guga13@live.com?Subject=Título%20da%20mensagem"> 
     <img src="icones/Social/gmail.svg">
   </a>
-  <a href="https://www.instagram.com/igorviniciusfreitas/" rel="nofollow">
+  <a href="https://www.instagram.com/gugacardoso99/" rel="nofollow">
     <img src="icones/Social/instagram.svg" alt="Twitter" style="max-width:100%;">
   </a>
-  <a href="https://www.linkedin.com/in/igor-freitas-004320140/" rel="nofollow">
+  <a href="https://www.linkedin.com/in/gustavo-c-a92ba6130/" rel="nofollow">
     <img src="icones/Social/linkedin.svg" alt="Instagram" style="max-width:100%;">
-  </a>
-    <a href="https://twitter.com/Igorvin1043" rel="nofollow">
-    <img src="icones/Social/twitter.svg" alt="Instagram" style="max-width:100%;">
-  </a>
 
+   
  
 ## [Minhas Estatísticas no GITHUB:](https://profile-summary-for-github.com/user/igor1043) 
 
