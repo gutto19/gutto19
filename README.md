@@ -16,8 +16,11 @@
   </a>
   <a href="https://www.linkedin.com/in/gustavo-c-a92ba6130/" rel="nofollow">
     <img src="icones/Social/linkedin.svg" alt="Instagram" style="max-width:100%;">
-
-   
+ </a>
+   <a href="https://api.whatsapp.com/send?phone=5577988292741/" rel="nofollow">
+    <img src="icones/Social/whastapp.svg" alt="WhastApp" style="max-width:100%;">
+ </a>
+ 
  
 ## [Minhas Estatísticas no GITHUB:](https://profile-summary-for-github.com/user/igor1043) 
 
