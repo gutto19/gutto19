@@ -168,7 +168,7 @@
 
 </p>
 
-
+/*
  ##  Experiências:
 
 - - - -  
@@ -251,7 +251,7 @@ Designer e Projetista de posts em redes sociais, editor de videos. Trabalho real
 
  </p>
 </details>  
-
+*/
 
 - - - - 
 
