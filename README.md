@@ -22,7 +22,7 @@
  </a>
  
  
-## [Minhas Estatísticas no GITHUB:](https://profile-summary-for-github.com/user/igor1043) 
+## [Minhas Estatísticas no GITHUB:](https://profile-summary-for-github.com/user/gutto19) 
 
 
 <center>
@@ -52,14 +52,10 @@
     <img src="icones/js.svg" alt="JS" style="max-width:100%;">
   </a>  <a href="#" rel="nofollow">
     <img src="icones/html.svg" alt="JS" style="max-width:100%;">
-  </a>  <a href="https://github.com/igor1043/PHP_Estruturas_Algoritmos" rel="nofollow">
-    <img src="icones/php.svg" alt="JS" style="max-width:100%;">
-  </a>  <a href="https://github.com/igor1043/Dart_Estruturas_Algoritmos" rel="nofollow">
-    <img src="icones/dart.svg" alt="JS" style="max-width:100%;">
   </a>  <a href="https://github.com/igor1043/Python_Estruturas_Algoritmos" rel="nofollow">
     <img src="icones/python.svg" alt="JS" style="max-width:100%;">
   </a>
-   </a>  <a href="" rel="nofollow">
+  <a href="" rel="nofollow">
     <img src="icones/dev/languages/go.svg" alt="JS" style="max-width:100%;">
   </a>
 </p>
