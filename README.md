@@ -40,9 +40,9 @@
 ##  Habilidades e Estudos:
 <h3> Essas são algumas Linguagens que já trabalhei e atualmente estudo. Você pode acompanhar alguns dos meu projetos acessando as subpastas. </h3> 
 <p align="center">
-  <a href="https://github.com/igor1043/C_Estruturas_Algoritmos" rel="nofollow">
+  <a href="https://github.com/gutto19/C_Estruturas_Algoritmos" rel="nofollow">
     <img src="icones/Habilidades/c.png" alt="JS" style="max-width:100%;">
-  </a>  <a href="https://github.com/gutto19/C++_Projetos" rel="nofollow">
+  </a>  <a href="https://github.com/gutto19/C-_Projetos" rel="nofollow">
     <img src="icones/Habilidades/c++.png" alt="JS" style="max-width:100%;">
   </a>  <a href="https://github.com/gutto19/CSharp_Estruturas_Algoritmos" rel="nofollow">
     <img src="icones/Habilidades/csharp.svg" alt="JS" style="max-width:100%;">
