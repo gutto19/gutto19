@@ -42,22 +42,16 @@
 <p align="center">
   <a href="#" rel="nofollow">
     <img src="icones/Habilidades/c.png" alt="JS" style="max-width:100%;">
-   
   </a>  <a href="https://github.com/gutto19/C-_Projetos" rel="nofollow">
     <img src="icones/Habilidades/c++.png" alt="JS" style="max-width:100%;">
- 
   </a>  <a href="#" rel="nofollow">
     <img src="icones/Habilidades/csharp.svg" alt="JS" style="max-width:100%;">
- 
   </a>  <a href="https://github.com/gutto19/Estudos-Java" rel="nofollow">
     <img src="icones/Habilidades/java.svg" alt="JS" style="max-width:100%;">
- 
   </a>  <a href="#" rel="nofollow">
     <img src="icones/Habilidades/js.svg" alt="JS" style="max-width:100%;">
- 
   </a>  <a href="https://github.com/gutto19/HTML_Projetos" rel="nofollow">
     <img src="icones/Habilidades/html.svg" alt="JS" style="max-width:100%;">
- 
   </a>  <a href="https://github.com/gutto19/Python_Projetos" rel="nofollow">
     <img src="icones/Habilidades/python.svg" alt="JS" style="max-width:100%;">
   </a>
@@ -68,11 +62,9 @@
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/nodejs.svg" alt="js" style="max-width:100%;">
   </a>
- 
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/qt.svg" alt="js" style="max-width:100%;">
   </a>
- 
     <a href="https://github.com/gutto19/ProjetosUNITY" rel="nofollow">
     <img src="icones/Frameworks/unity.svg" alt="js" style="max-width:100%;">
   </a>
@@ -83,31 +75,24 @@
    <a href="https://github.com/igor1043/Projetos_MySql" rel="nofollow">
     <img src="icones/dev/tools/mysql.png" alt="js" style="max-width:100%;">
   </a>
- 
   <a href="#" rel="nofollow">
     <img src="icones/Tools/android_studio.svg" alt="js" style="max-width:100%;">
   </a>
- 
   <a href="#" rel="nofollow">
     <img src="icones/Tools/bash.svg" alt="js" style="max-width:100%;">
   </a>
- 
    <a href="#" rel="nofollow">
     <img src="icones/Tools/eclipse.svg" alt="js" style="max-width:100%;">
   </a> 
- 
   <a href="#" rel="nofollow">
     <img src="icones/Tools/powershell.svg" alt="js" style="max-width:100%;">
   </a>
- 
   <a href="#" rel="nofollow">
     <img src="icones/Tools/visualstudio.svg" alt="js" style="max-width:100%;">
   </a>
- 
   <a href="#" rel="nofollow">
     <img src="icones/Tools/visualstudio_code.svg" alt="js" style="max-width:100%;">
   </a>
- 
   <a href="#" rel="nofollow">
     <img src="icones/Tools/wordpress.svg" alt="js" style="max-width:100%;">
  </a>
