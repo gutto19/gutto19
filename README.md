@@ -59,37 +59,16 @@
 
 <h3> Já desenvolvi e desenvolvo nas seguintes Frameworks. </h3>
 <p align="center">
-  <a href="#" rel="nofollow">
-    <img src="icones/Frameworks/angular.svg" alt="js" style="max-width:100%;">
-  </a>
-  <a href="#" rel="nofollow">
-    <img src="icones/Frameworks/bootstrap.svg" alt="js" style="max-width:100%;">
-  </a>
-    <a href="https://github.com/igor1043/Projetos_Excel" rel="nofollow">
+    <a href="https://github.com/gutto19/Projetos_Excel" rel="nofollow">
     <img src="icones/excel.png" alt="js" style="max-width:100%;">
   </a> 
-   <a href="https://github.com/igor1043/Projetos-em-Flutter" rel="nofollow">
-    <img src="icones/Frameworks/flutter.svg" alt="js" style="max-width:100%;">
-  </a> 
-  <a href="#" rel="nofollow">
-    <img src="icones/Frameworks/ionic.svg" alt="js" style="max-width:100%;">
-  </a>
-  <a href="#" rel="nofollow">
-    <img src="icones/Frameworks/jquery.svg" alt="js" style="max-width:100%;">
-  </a>
-  <a href="#" rel="nofollow">
-    <img src="icones/Frameworks/laravel.svg" alt="js" style="max-width:100%;">
-  </a>
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/nodejs.svg" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
     <img src="icones/Frameworks/qt.svg" alt="js" style="max-width:100%;">
   </a>
-  <a href="https://github.com/igor1043/Projetos-em-React" rel="nofollow">
-    <img src="icones/Frameworks/react.svg" alt="js" style="max-width:100%;">
-  </a>
-    <a href="https://github.com/igor1043/ProjetosUNITY" rel="nofollow">
+    <a href="https://github.com/gutto19/ProjetosUNITY" rel="nofollow">
     <img src="icones/Frameworks/unity.svg" alt="js" style="max-width:100%;">
   </a>
 </p>
