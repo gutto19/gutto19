@@ -116,6 +116,7 @@
 
 - - - -  
  **Vicontec Internet** - Internet e Telecomunicações
+ 
 ![picture alt](https://github.com/gutto19/gutto19/blob/main/icones/Logos/vicontec.png)  
 *Novembro de 2020 até o momento*  
 <details>
