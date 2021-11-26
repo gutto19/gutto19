@@ -73,7 +73,7 @@
 <h3> E trabalho com algumas ferramentas como:</h3>
 <p align="center">
    <a href="https://github.com/gutto19/MySql_Projetos" rel="nofollow">
-    <img src="icones/dev/tools/mysql.png" alt="js" style="max-width:100%;">
+    <img src="icones/Tools/mysql.png" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
     <img src="icones/Tools/bash.svg" alt="js" style="max-width:100%;">
