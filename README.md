@@ -91,8 +91,8 @@
 </h4>
 
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1EJMvUpN4lM8REm0s7iAzuoSK9zHcEj_E?usp=sharing" rel="nofollow">
-    <img src="icones/curriculo/lattes.png" alt="js" style="max-width:100%;">
+  <a href="https://drive.google.com/drive/folders/1SGiY4xXY8xTv4m8vs-F6jBRvbHhPdXYh?usp=sharing" rel="nofollow">
+    <img src="icones/Curriculo/lattes.png" alt="js" style="max-width:100%;">
   </a>
 </p>
 
