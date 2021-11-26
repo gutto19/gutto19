@@ -123,12 +123,9 @@
   <summary>Estágio</summary>
   <p> 
  
- > Atuação no desenvolvimento da plataforma de soluções para e-commerce integrada para otimizar a performance nas vendas além da otimização do tempo dos usuários.  
-Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade.
-> Desenvolvimento utilizando a metodologia ágil SCRUM para gerenciamento das atividades.  
-Utilizando Excel e ScriptCase.    
-Prezando por boas práticas de design e clean code, assim como a realização de code review. 
- 
+ > Trabalho no setor de suporte, exercendo a função de atendimento ao cliente, suporte de redes, Mikrotik, entre outros. Para isso, as ferramentas utilizadas são o Radiusnet e Radiuschet (para monitoramento, cadastro, comunicação e acesso as demais informações do cliente). O uso do UNM2000 para gerenciar dispositivos novos e verificação dos antigos, como a questão de gerar alertas, nível de dB das ONU's e liberação de novos aparelhos durante o ato da instalação. Além disso, usamos o MyMaps para ter um esboço de nossa rede e verificar as áreas de atuação da empresa, para então expandir ou informar que atendemos no local. O Geogrid é utilizado para mapear e cadastrar as redes novas, sendo uma plataforma potente e nos proporciona cadastrar todo o material utilizado durante a instalação de novas redes.
+> Desenvolvimento utilizando a metodologia ágil SCRUM para gerenciamento das atividades.     
+
  </p>
 </details>    
 
