@@ -100,15 +100,15 @@
  ##  Experiências:
 
 - - - -  
- **Facilita.tech** - Desenvolvedor Android  
-![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/facilita.png)  
-*Junho de 2021 até o momento*  
+ **Mercadtica** - Criação de um Site Simples em HTML  
+![picture alt](https://github.com/gutto19/gutto19/tree/main/icones/Logos/mercadotica.png)  
+*Setembro de 2020*  
 <details>
-  <summary>Desenvolvedor Android Junior</summary>
+  <summary>Desenvolvimento em HTML </summary>
   <p> 
  
 
-> Atuação na análise das necessidades do cliente, planejamento dos aplicativos, implantação de arquitetura, ferramentas e recursos, realização e configuração de testes.
+> Criação de um site em HTML para uma vaga de estágio no setor de TI da empresa.
  
  </p>
 </details>   
