@@ -50,7 +50,7 @@
     <img src="icones/Habilidades/java.svg" alt="JS" style="max-width:100%;">
   </a>  <a href="#" rel="nofollow">
     <img src="icones/Habilidades/js.svg" alt="JS" style="max-width:100%;">
-  </a>  <a href="#" rel="nofollow">
+  </a>  <a href="https://github.com/gutto19/HTML_Projetos" rel="nofollow">
     <img src="icones/Habilidades/html.svg" alt="JS" style="max-width:100%;">
   </a>  <a href="https://github.com/gutto19/Python_Projetos" rel="nofollow">
     <img src="icones/Habilidades/python.svg" alt="JS" style="max-width:100%;">
