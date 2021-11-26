@@ -101,7 +101,7 @@
 
 - - - -  
  **Mercadótica** - Criação de um Site Simples em HTML  
-![picture alt](https://github.com/gutto19/gutto19/tree/main/icones/Logos/mercadotica.png)  
+![picture alt](https://github.com/gutto19/gutto19/blob/main/icones/Logos/mercadotica.png)  
 *Setembro de 2020*  
 <details>
   <summary>Desenvolvimento em HTML </summary>
