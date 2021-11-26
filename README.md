@@ -96,44 +96,7 @@
   </a>
 </p>
 
-##  Outras Habilidades:
 
-<h4>Tive contando com a área de design, e tenho um certo conhecimento em alguns editores de foto, video e audio.</h4>
-<p align="center">
-
-  <a href="https://github.com/igor1043/Projetos-Photoshop" rel="nofollow">
-    <img src="icones/desing/photoshop.png" alt="js" style="max-width:100%;">
-  </a>
-    <a href="#" rel="nofollow">
-    <img src="icones/desing/vegas.png" alt="js" style="max-width:100%;">
-  </a>
-      <a href="#" rel="nofollow">
-    <img src="icones/desing/audition.png" alt="js" style="max-width:100%;">
-  </a>
-        <a href="#" rel="nofollow">
-    <img src="icones/desing/after.png" alt="js" style="max-width:100%;">
-  </a>
-      <a href="#" rel="nofollow">
-    <img src="icones/desing/premiere.png" alt="js" style="max-width:100%;">
-  </a>
-      <a href="#" rel="nofollow">
-    <img src="icones/desing/ilustrator.png" alt="js" style="max-width:100%;">
-  </a>
-
-</p>
-
-<h4>E como hobby, estudo modelagem 3d utilizando o blender como programa principal, caso queira acompanhar meu trabalho acesse o Sketchfab.</h4>
-<p align="center">
-  <a href="#" rel="nofollow">
-    <img src="icones/hobby/blender.png" alt="js" style="max-width:100%;">
-  </a>
-    <a href="https://sketchfab.com/igorviniciusfreitassouza/models" rel="nofollow">
-    <img src="icones/hobby/sketchfab.png" alt="js" style="max-width:100%;">
-  </a>
-
-</p>
-
-/*
  ##  Experiências:
 
 - - - -  
@@ -216,7 +179,7 @@ Designer e Projetista de posts em redes sociais, editor de videos. Trabalho real
 
  </p>
 </details>  
-*/
+
 
 - - - - 
 
