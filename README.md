@@ -107,7 +107,6 @@
   <summary>Desenvolvimento em HTML </summary>
   <p> 
  
-
 > Criação de um site em HTML para uma vaga de estágio no setor de TI da empresa.
  
  </p>
