@@ -115,9 +115,9 @@
 
 
 - - - -  
- **Meta Soluções** - Desenvolvedor de Sistemas  
-![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/ExcelCoaching.png)  
-*Maio de 2020 até o momento*  
+ **Vicontec Internet** - Internet e Telecomunicações
+![picture alt](https://github.com/gutto19/gutto19/blob/main/icones/Logos/vicontec.png)  
+*Novembro de 2020 até o momento*  
 <details>
   <summary>Estágio</summary>
   <p> 
@@ -130,54 +130,6 @@ Prezando por boas práticas de design e clean code, assim como a realização de
  
  </p>
 </details>    
-
-
-- - - - 
- **Blog do Anderson** - Desenvolvedor Web front-end   
-![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/BlogAndersonI.png)   
-*Agosto de 2020 até o momento*  
-<details>
-  <summary>Freelancer</summary>
-  <p> 
-   
-> Cliente: Anderson Oliveira  
-Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
-Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL.
-
- </p>
-</details>
-
-
-- - - - 
- **Saborreto-GBI** - Desenvolvedor Web front-end   
-![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/saboretto.png)      
-*Julho de 2019 a Abril de 2020*  
-<details>
-  <summary>Freelancer</summary>
-  <p> 
-   
-> Cliente: Pedro Henrique Moreira Alves  
-Trabalho realizado com o intuito de projetar publicações e info-comerciais em redes sociais com o intuito de aumentar o engajamento.   
-desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
-HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase. 
-   
- </p>
-</details>  
-
-
-- - - - 
- **Movimento Pro-Conquistas** - Designer - Desenvolvedor Web   
- ![picture alt](https://github.com/igor1043/igor1043/blob/main/Images/MovimentoProConquistas.png)  
-*Novembro de 2018 a Outubro de 2019*  
-<details>
-  <summary>Freelancer</summary>
-  <p> 
-   
-> Cliente: Itamar Figueredo  
-Designer e Projetista de posts em redes sociais, editor de videos. Trabalho realizado com o intuito de projetar publicações e info-comerciais em redes sociais com o intuito de aumentar o engajamento. Como editor de videos, os trabalhos realizados foram com o intuito de divulgação de campanhas em redes sociais e televisão.
-
- </p>
-</details>  
 
 
 - - - - 
