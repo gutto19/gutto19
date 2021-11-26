@@ -46,7 +46,7 @@
     <img src="icones/Habilidades/c++.png" alt="JS" style="max-width:100%;">
   </a>  <a href="https://github.com/gutto19/CSharp_Estruturas_Algoritmos" rel="nofollow">
     <img src="icones/Habilidades/csharp.svg" alt="JS" style="max-width:100%;">
-  </a>  <a href="#" rel="nofollow">
+  </a>  <a href="https://github.com/gutto19/Estudos_Java" rel="nofollow">
     <img src="icones/Habilidades/java.svg" alt="JS" style="max-width:100%;">
   </a>  <a href="#" rel="nofollow">
     <img src="icones/Habilidades/js.svg" alt="JS" style="max-width:100%;">
