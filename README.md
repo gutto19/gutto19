@@ -72,30 +72,18 @@
 
 <h3> E trabalho com algumas ferramentas como:</h3>
 <p align="center">
-   <a href="https://github.com/igor1043/Projetos_MySql" rel="nofollow">
+   <a href="https://github.com/gutto19/MySql_Projetos" rel="nofollow">
     <img src="icones/dev/tools/mysql.png" alt="js" style="max-width:100%;">
-  </a>
-  <a href="#" rel="nofollow">
-    <img src="icones/Tools/android_studio.svg" alt="js" style="max-width:100%;">
   </a>
   <a href="#" rel="nofollow">
     <img src="icones/Tools/bash.svg" alt="js" style="max-width:100%;">
   </a>
-   <a href="#" rel="nofollow">
+   <a href="https://github.com/gutto19/Estudos-Java" rel="nofollow">
     <img src="icones/Tools/eclipse.svg" alt="js" style="max-width:100%;">
   </a> 
-  <a href="#" rel="nofollow">
-    <img src="icones/Tools/powershell.svg" alt="js" style="max-width:100%;">
-  </a>
-  <a href="#" rel="nofollow">
-    <img src="icones/Tools/visualstudio.svg" alt="js" style="max-width:100%;">
-  </a>
-  <a href="#" rel="nofollow">
+  <a href="https://github.com/gutto19/Python_Projetos" rel="nofollow">
     <img src="icones/Tools/visualstudio_code.svg" alt="js" style="max-width:100%;">
   </a>
-  <a href="#" rel="nofollow">
-    <img src="icones/Tools/wordpress.svg" alt="js" style="max-width:100%;">
- </a>
 </p>
 
 ##  Curriculo e Formações:
