@@ -124,7 +124,9 @@
   <p> 
  
  > Trabalho no setor de suporte, exercendo a função de atendimento ao cliente, suporte de redes, Mikrotik, entre outros. Para isso, as ferramentas utilizadas são o Radiusnet e Radiuschet para atendimento ao cliente. O uso do UNM2000 para gerenciar dispositivos, como a questão de gerar alertas, nível de dB das ONU's e liberação de novos aparelhos durante o ato da instalação.
+   
 > Utilização do Geogrid para áreas de atuação e para mapear e cadastrar as redes novas.
+> Prezamos sempre pelo bom funcionamento da rede, resolvendo os problemas o mais rápido possível.
 
  </p>
 </details>    
