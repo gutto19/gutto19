@@ -11,13 +11,10 @@
   <a href="mailto:guga13@live.com?Subject=Título%20da%20mensagem"> 
     <img src="icones/Social/gmail.svg">
   </a>
-  <a href="https://www.instagram.com/gugacardoso99/" rel="nofollow">
-    <img src="icones/Social/instagram.svg" alt="Twitter" style="max-width:100%;">
-  </a>
   <a href="https://www.linkedin.com/in/gustavo-c-a92ba6130/" rel="nofollow">
     <img src="icones/Social/linkedin.svg" alt="Instagram" style="max-width:100%;">
  </a>
-   <a href="https://api.whatsapp.com/send?phone=5577988292741/" rel="nofollow">
+   <a href="https://api.whatsapp.com/send?phone=5577981292224/" rel="nofollow">
     <img src="icones/Social/whatsapp.svg" alt="WhastApp" style="max-width:100%;">
  </a>
  
