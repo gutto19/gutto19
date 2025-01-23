@@ -4,13 +4,11 @@
 <h3>Bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos realizados</h3>
 <h4>Analista Técnico com Experiência em Soluções de Banco de Dados e Redes</h4>
 
-Olá! Sou um Analista de Suporte Técnico apaixonado por solucionar desafios e oferecer suporte eficiente a sistemas complexos. Atualmente, faço parte da equipe da MK Solutions, onde trabalho como Analista de Suporte Técnico desde janeiro de 2022.
+Olá, sejam todos bem-vindos!
 
-Nesse papel, sou responsável por oferecer suporte especializado ao MK Maps, um sistema essencial no segmento. Uma parte significativa do meu trabalho envolve a utilização de Banco de Dados (SQL) para identificar e resolver problemas, bem como a criação de relatórios dinâmicos que são consultados diretamente via Banco. Essa abordagem analítica permite aprimorar constantemente a experiência dos usuários e garantir a operação contínua do MK Maps.
+Na CERB, lidero uma equipe técnica em parcerias estratégicas, supervisionando cronogramas e otimizando processos, garantindo a entrega de serviços de alta qualidade. Nosso foco é atender demandas de clientes e parceiros com excelência, refletindo meu compromisso com a eficiência operacional e a satisfação do cliente.
 
-Minha trajetória profissional anterior também foi marcada por realizações significativas. Durante meu período na Vicontec - Internet e Rede Ltda, onde atuei de novembro de 2020 a dezembro de 2021, dediquei-me ao campo de Redes e Telecomunicações. Nesse papel, minha rotina incluía a utilização de sistemas de atendimento ao cliente e bancos de dados mikrotik para gerenciar e controlar redes de maneira eficaz. Através de ligações e RadiusChat, proporcionava suporte ao cliente e registrava cuidadosamente todas as interações no banco de dados do RadiusNet. Além disso, para serviços de redes, trabalhei com ferramentas como Geogrid e UNM2000, demonstrando a capacidade de lidar com uma variedade de soluções técnicas.
-
-Minhas principais competências incluem Suporte Técnico, SQL, PostgreSQL e Banco de Dados, as quais tenho aplicado com sucesso para superar desafios técnicos e contribuir para o crescimento das empresas em que trabalhei. Além disso, estou sempre em busca de aprendizado contínuo, procurando me manter atualizado com as últimas tendências tecnológicas para aprimorar constantemente minhas habilidades.
+Em busca de constante aprimoramento, concluí minha pós-graduação em Análise de Dados para Tomada de Decisões, fortalecendo minha habilidade de gerar insights valiosos e estratégicos. Minha expertise técnica em SQL e minha experiência em suporte técnico são fundamentais para impulsionar projetos inovadores e contribuir para a transformação digital.
 
 Estou entusiasmado com a oportunidade de me conectar com profissionais da minha área e contribuir para projetos desafiadores. Sinta-se à vontade para entrar em contato comigo se quiser trocar experiências, discutir novas ideias ou explorar possíveis colaborações.
 
