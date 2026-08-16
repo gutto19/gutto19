@@ -1,98 +1,269 @@
-<h2> Gustavo Cardoso</h2> 
+<h2> Gustavo Cardoso Ribeiro</h2>
 
-</p>
-<h3>Bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos realizados</h3>
-<h4>Analista Técnico com Experiência em Soluções de Banco de Dados e Redes</h4>
+<h3>Bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos e soluções desenvolvidos ao longo da minha trajetória profissional.</h3>
+
+<h4>Analista de Informações Gerenciais | Business Intelligence | Dados</h4>
 
 Olá, sejam todos bem-vindos!
 
-Na CERB, lidero uma equipe técnica em parcerias estratégicas, supervisionando cronogramas e otimizando processos, garantindo a entrega de serviços de alta qualidade. Nosso foco é atender demandas de clientes e parceiros com excelência, refletindo meu compromisso com a eficiência operacional e a satisfação do cliente.
+Sou profissional da área de **Dados e Business Intelligence**, com experiência em análise estratégica, automação de processos e desenvolvimento de soluções orientadas por dados.
 
-Em busca de constante aprimoramento, concluí minha pós-graduação em Análise de Dados para Tomada de Decisões, fortalecendo minha habilidade de gerar insights valiosos e estratégicos. Minha expertise técnica em SQL e minha experiência em suporte técnico são fundamentais para impulsionar projetos inovadores e contribuir para a transformação digital.
+Atualmente atuo como **Analista de Informações Gerenciais no Hospital Sírio-Libanês**, contribuindo para iniciativas estratégicas do **PROADI-SUS** e projetos voltados à gestão hospitalar, atuando na estruturação, integração e análise de dados, desenvolvimento de dashboards e acompanhamento de indicadores.
 
-Estou entusiasmado com a oportunidade de me conectar com profissionais da minha área e contribuir para projetos desafiadores. Sinta-se à vontade para entrar em contato comigo se quiser trocar experiências, discutir novas ideias ou explorar possíveis colaborações.
+Minha trajetória profissional combina uma forte base técnica em **infraestrutura, suporte e tecnologia** com experiência em **análise de dados, Business Intelligence e gestão de processos**. Essa combinação me permite atuar como ponte entre áreas técnicas, operacionais e estratégicas, transformando dados em informações que apoiam a tomada de decisão.
 
+Tenho experiência com **SQL, Power BI, Python e Excel Avançado**, além de integração e tratamento de dados, ETL/ELT, modelagem de dados, automação de processos, desenvolvimento de dashboards e indicadores gerenciais.
 
+Estou sempre buscando aprimorar meus conhecimentos e desenvolver soluções que contribuam para a **eficiência operacional, qualidade das informações e melhoria contínua dos processos**.
 
- ##  💻 Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-c-a92ba6130/)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:guga13@live.com?Subject=Título%20da%20mensagem)
- 
+Sinta-se à vontade para explorar meus projetos, conectar-se comigo ou entrar em contato para trocar experiências e discutir novas ideias.
+
+---
+
+## 💻 Social
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gustavo-cardoso-ribeiro/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge\&logo=gmail)](mailto:guga13@live.com?Subject=Contato%20via%20GitHub)
+
+---
+
 ## 💭 Status
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=gutto19&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Top Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gutto19&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=gutto19\&theme=transparent\&bg_color=000\&border_color=30A3DC\&show_icons=true\&icon_color=30A3DC\&title_color=E94D5F\&text_color=FFF)
 
-##  Linguagens de Programação
- ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
- ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
- ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
- ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Top Linguagens](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gutto19\&bg_color=000\&border_color=30A3DC\&title_color=E94D5F\&text_color=FFF)
 
-##  Frameworks
- ![NodeJS](https://img.shields.io/badge/NodeJS-000?style=for-the-badge&logo=nodejs)
- ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity)
+---
 
-##  Ferramentas
- ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
- ![Eclipse](https://img.shields.io/badge/Eclipse-000?style=for-the-badge&logo=eclipse)
- ![VisualStudio](https://img.shields.io/badge/VisualStudio-000?style=for-the-badge&logo=visualstudio)
+## 📊 Business Intelligence & Dados
 
+![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge\&logo=powerbi)
 
- ##  Experiências
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
 
-- - - -  
- **MK Solutions** - Analista Técnico  
-![picture alt](https://github.com/gutto19/gutto19/blob/main/icones/Logos/MK.png)  
-*Janeiro de 2022 até o momento*  
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge\&logo=postgresql)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
+
+![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge\&logo=microsoftexcel)
+
+![DAX](https://img.shields.io/badge/DAX-000?style=for-the-badge\&logo=powerbi)
+
+![Power Query](https://img.shields.io/badge/Power%20Query-000?style=for-the-badge\&logo=powerbi)
+
+---
+
+## ⚙️ Tecnologias & Ferramentas
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
+
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge\&logo=amazonaws)
+
+![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge\&logo=microsoftazure)
+
+![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge\&logo=notion)
+
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql)
+
+---
+
+## 📌 Experiências
+
+---
+
+**HOSPITAL SÍRIO-LIBANÊS** - Analista de Informações Gerenciais
+
+*Dezembro de 2025 até o momento*
+
 <details>
-  <summary>Analista de Suporte Técnico | Especialista em Documentação de Rede e Autenticação</summary>
-  <p> 
- 
-  Como Analista de Suporte Técnico, desempenho um papel crucial na gestão de dois setores distintos, demonstrando habilidades avançadas em documentação de rede e análise de autenticação. Minhas responsabilidades abrangem:
+  <summary>Analista de Informações Gerenciais | Business Intelligence e Dados</summary>
+  <p>
 
-🔹 Setor de Documentação de Rede (FTTH): Liderei o treinamento e a supervisão do processo de documentação da rede óptica (FTTH) do provedor. Desenvolvi expertise em criar registros detalhados, abrangendo elementos como caixas (CTO e CEO), Splitters, Postes, Cabos, OLT's e Diagramas de fusão. Além disso, coordenei a criação de scripts de provisionamento de ONU's em diferentes modelos de OLT's, otimizando expressões regulares e garantindo uma operação eficiente.
+Atuo na análise, integração e estruturação de dados corporativos e assistenciais, contribuindo para iniciativas do PROADI-SUS e projetos voltados à gestão hospitalar.
 
-🔹 Consultas e Relatórios Dinâmicos: Utilizei minhas habilidades em SQL para realizar consultas e ajustes no Banco de Dados, solucionando problemas e fornecendo insights importantes. Criei relatórios dinâmicos que apresentavam dados relevantes com base nas solicitações específicas dos clientes, contribuindo para uma compreensão mais aprofundada das informações.
+🔹 **Business Intelligence:** Desenvolvimento de dashboards gerenciais e relatórios analíticos utilizando Power BI e Excel.
 
-🔹 Análise de Autenticação Técnica: No segundo setor, participei ativamente na análise de problemas de autenticação dos clientes. Realizei avaliações detalhadas dos atributos do concentrador, analisei logs de conexão e examinando a comunicação do Radius. Essa abordagem meticulosa permitiu uma resolução eficaz dos problemas e uma experiência aprimorada para os usuários.
+🔹 **Análise de Dados:** Extração, consolidação e tratamento de dados, garantindo confiabilidade, rastreabilidade e qualidade das informações.
 
-🔹 Otimização de Desempenho: Contribuí para a otimização do sistema, identificando e tratando a lentidão por meio de consultas no Banco de Dados, otimizando tabelas com procedimentos como o "vaccum".
+🔹 **Indicadores:** Monitoramento de indicadores estratégicos e operacionais, realizando análises de tendências, desvios e oportunidades de melhoria.
 
-Minha atuação demonstra não apenas competência técnica, mas também a capacidade de liderar processos críticos e otimizar operações essenciais. Estou sempre buscando maneiras de aprimorar a infraestrutura tecnológica e proporcionar um suporte excepcional aos clientes. Conecte-se comigo para trocarmos ideias sobre como podemos colaborar e impulsionar o sucesso da sua equipe!
+🔹 **Interface com a Gestão:** Atuação junto a equipes multidisciplinares e gestores para levantamento de necessidades, definição de métricas e transformação de dados em insights acionáveis.
 
-#SuporteTécnico #Redes #Documentação #Autenticação #EficiênciaOperacional
- 
+🔹 **Automação:** Apoio à otimização de processos por meio da automação e padronização de fluxos analíticos e operacionais.
+
   </p>
-</details>   
+</details>
 
+---
 
+**CERB** - Analista de Dados e Processos
 
-- - - -  
- **Vicontec Internet** - Internet e Telecomunicações
- 
-![picture alt](https://github.com/gutto19/gutto19/blob/main/icones/Logos/vicontec.png)  
-*Novembro de 2020 até o 2021*  
+*Janeiro de 2025 até Dezembro de 2025*
+
 <details>
-  <summary>Experiência de Estágio em Provedor de Internet | Suporte e Gerenciamento de Redes</summary>
-  <p> 
- 
- Durante meu estágio em um provedor de internet, desempenhei um papel fundamental no suporte ao cliente e no aprimoramento da infraestrutura de rede. Minhas principais responsabilidades incluíram:
+  <summary>Analista de Dados e Processos | Business Intelligence e Automação</summary>
+  <p>
 
-🔹 Atendimento Multicanal: Interagi com clientes por meio de chat online (RadiusChat), tickets e ligações, oferecendo suporte de alta qualidade. Todas as interações foram registradas meticulosamente, contribuindo para a análise de feedback e identificação de áreas de aprimoramento no sistema RadiusNet.
+Responsável pela análise, integração e automação de dados corporativos, com foco em eficiência operacional e apoio estratégico à gestão.
 
-🔹 Suporte em Redes: Participei ativamente na ativação de ONU's através do ANM/UNM 2000, bem como no gerenciamento de dispositivos para detecção de alertas e otimização do sinal na rede óptica.
+🔹 **Dados e Automação:** Estruturação e automação de processos relacionados ao tratamento e integração de dados.
 
-🔹 Mapeamento da Infraestrutura: Utilizei ferramentas como MyMaps para mapear a rede óptica da empresa, proporcionando uma visualização clara da infraestrutura física. Também contribuí para o cadastro preciso de elementos essenciais, como cabos, postes e caixas, utilizando a plataforma Geogrid.
+🔹 **Power BI:** Desenvolvimento de dashboards e indicadores para ampliar a visibilidade das informações e apoiar a tomada de decisão.
 
-🔹 Monitoramento Avançado: Fui responsável por monitorar a saúde da rede, o tráfego de dados e o desempenho da OLT, utilizando ferramentas como Zabbix e Grafana. Isso possibilitou a detecção proativa de problemas e a implementação de soluções antes que impactassem os clientes.
+🔹 **Indicadores:** Desenvolvimento de metodologias de acompanhamento e relatórios de performance.
 
-Minha experiência de estágio não apenas consolidou meu conhecimento prático em suporte técnico e gerenciamento de redes, mas também me proporcionou insights valiosos sobre a importância da excelência no atendimento ao cliente e na otimização contínua da infraestrutura. Estou ansioso para aplicar essas habilidades e conhecimentos em futuras oportunidades na área de tecnologia e telecomunicações. Conecte-se comigo para discutirmos como posso agregar valor à sua equipe!
+🔹 **Gestão:** Atuação junto à alta gestão na transformação de dados em estratégias acionáveis.
 
-#Tecnologia #Redes #SuporteAoCliente #EstágioTecnológico
- </p>
-</details>    
+🔹 **Liderança:** Coordenação de equipe técnica multidisciplinar, garantindo entregas alinhadas aos objetivos institucionais e padrões de qualidade.
 
+  </p>
+</details>
 
-- - - - 
+---
 
+**CERB** - Coordenador de TI
+
+*Junho de 2024 até Dezembro de 2024*
+
+<details>
+  <summary>Coordenador de TI | Gestão de Equipe e Processos</summary>
+  <p>
+
+Atuei na coordenação da equipe técnica de suporte e no gerenciamento de projetos estratégicos em parceria com a Positivo Tecnologia.
+
+🔹 Coordenação de equipe técnica e acompanhamento das atividades operacionais.
+
+🔹 Planejamento e acompanhamento de atividades técnicas.
+
+🔹 Estruturação e padronização de processos.
+
+🔹 Acompanhamento de SLA's e indicadores operacionais.
+
+🔹 Gestão de projetos e integração entre equipes.
+
+🔹 Busca contínua por melhorias na eficiência e qualidade dos serviços prestados.
+
+  </p>
+</details>
+
+---
+
+**ATOS** - Analista de Field Service
+
+*Dezembro de 2023 até Maio de 2024*
+
+<details>
+  <summary>Analista de Field Service | Suporte e Infraestrutura</summary>
+  <p>
+
+Atuação na garantia da estabilidade e funcionamento de soluções digitais em ambiente de cliente.
+
+🔹 Instalação, configuração e manutenção de hardware e software.
+
+🔹 Resolução de incidentes técnicos e suporte ao usuário.
+
+🔹 Cumprimento de SLA's e acompanhamento de chamados.
+
+🔹 Elaboração de relatórios técnicos e documentação.
+
+🔹 Colaboração com equipes multidisciplinares para resolução de incidentes complexos.
+
+  </p>
+</details>
+
+---
+
+**MK Solutions** - Analista Técnico
+
+*Janeiro de 2022 até Novembro de 2023*
+
+<details>
+  <summary>Analista Técnico | SQL, Banco de Dados e Suporte</summary>
+  <p>
+
+Como Analista Técnico, atuei na análise de problemas técnicos, banco de dados, consultas SQL, documentação e otimização de processos.
+
+🔹 **SQL e Banco de Dados:** Desenvolvimento e otimização de consultas SQL para análise e solução de problemas.
+
+🔹 **Consultas e Relatórios:** Criação de consultas e relatórios dinâmicos para atender demandas específicas dos clientes.
+
+🔹 **Otimização:** Identificação de problemas de desempenho e otimização de consultas e tabelas do banco de dados.
+
+🔹 **Automação:** Desenvolvimento e melhoria de scripts de provisionamento e rotinas técnicas.
+
+🔹 **Suporte Técnico:** Análise de problemas relacionados ao sistema, autenticação e infraestrutura.
+
+Durante esse período, contribuí para uma redução superior a **50% no tempo médio de resolução**, aumento de **30% na satisfação dos usuários** e redução de **20% na reincidência de falhas**.
+
+  </p>
+</details>
+
+---
+
+**VICONTEC Internet** - Internet e Telecomunicações
+
+*Novembro de 2020 até Dezembro de 2021*
+
+<details>
+  <summary>Estagiário de Suporte Técnico | Redes e Telecomunicações</summary>
+  <p>
+
+Durante meu estágio em um provedor de internet, atuei no suporte técnico e no gerenciamento de redes.
+
+🔹 Atendimento ao cliente por chat, tickets e ligações.
+
+🔹 Suporte e monitoramento da infraestrutura de rede.
+
+🔹 Ativação e gerenciamento de ONU's.
+
+🔹 Mapeamento da infraestrutura de rede óptica.
+
+🔹 Monitoramento utilizando ferramentas como Zabbix e Grafana.
+
+🔹 Utilização de ferramentas como Geogrid e UNM2000.
+
+Também participei da reorganização do sistema UNM do provedor, contribuindo para um aumento de aproximadamente **30% na eficiência da análise de viabilidade** e redução de interrupções de rede.
+
+  </p>
+</details>
+
+---
+
+## 🎓 Formação
+
+🎓 **Engenharia da Computação**
+FAINOR | 2017 – 2021
+
+🎓 **Pós-graduação em Análise de Dados para Tomada de Decisões**
+PUC-PR | 2023 – 2024
+
+---
+
+## 📚 Cursos & Certificados
+
+🐍 **Python para Análise de Dados** — Data Science Academy | 2024
+
+🐍 **Python** — Data Science Academy | 2024
+
+📊 **Power BI** — Empowerdata | 2024
+
+⚙️ **ITIL 4** — Atos | 2024
+
+---
+
+## 🌎 Idiomas
+
+🇧🇷 Português — Nativo
+
+🇺🇸 Inglês — Intermediário
+
+---
+
+## 📫 Entre em contato
+
+Se você quiser trocar experiências sobre **Dados, Business Intelligence, SQL, Python, Power BI, automação ou tecnologia**, fique à vontade para entrar em contato.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gustavo-cardoso-ribeiro/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge\&logo=gmail)](mailto:guga13@live.com)
